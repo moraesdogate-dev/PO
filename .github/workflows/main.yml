@@ -1,5 +1,3 @@
-codigo atualizado: name: Windows Cloud PC - Anydesk (Optimized)
-
 on:
   workflow_dispatch:
 
